@@ -3,3 +3,4 @@
  GIT clone command
 GIT add command
 GIT push command
+GIT pull command
